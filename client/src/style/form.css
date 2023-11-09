@@ -1,0 +1,23 @@
+.text_field {
+    width: 270px;
+}
+
+.pending {
+    position: absolute;
+    width: 270px !important;
+}
+
+.sex {
+    display: flex;
+    justify-content: center;
+    color: gray;    
+}
+
+.check_box {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* .name_input {
+    margin-top: 20px !important;
+} */
